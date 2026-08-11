@@ -66,10 +66,19 @@ This portfolio is designed to provide a professional and interactive introductio
 
 ---
 
-<p align="center">
-  💙 Built with HTML, CSS & JavaScript
-</p>
+## GitHub Stats
 
-<p align="center">
-  ⭐ If you like this project, consider giving it a star!
-</p>
+![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monish0502&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monish0502&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=monish0502&theme=tokyonight)
+
+---
+
+## Quote
+
+> "Success comes from small efforts repeated day after day."
+
+---
+
+Thanks for visiting my profile 🚀
+
